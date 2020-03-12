@@ -1,5 +1,5 @@
 @author Ankit Singh
-Gla university mathura (u.p)
+@Gla university mathura (u.p)
 
 # CircularLinkedList
 Full implementation of circular linked list using java.
